@@ -37,7 +37,7 @@ Problem Statement: Write a Python program that:
 3. Prints a personalized greeting message using the full name.
 
 
-### 📝 Code For Task 1
+### 📝 Code For Task 2
 
 ```python
 # Personalized Greeting
@@ -50,3 +50,27 @@ nameL = input("Enter Your Last Name : ");
 print("Hello, " + nameF + " " + nameL + "! Welcome to the Python program.");
 
 ```
+---
+
+### 👨‍🎓 Student Info
+
+**Name:** Deepam Jain  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://cdn-icons-png.flaticon.com/24/732/732200.png)](mailto:digitaldeepamjain@gmail.com) &nbsp; [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/digitaldeepam/)  &nbsp; [![GitHub](https://cdn-icons-png.flaticon.com/24/733/733553.png)](https://github.com/digitaldeepamjain)
+
+---
+
+## 🚀 Learn Python with Tutedude [![Tutedude](https://cdn-icons-png.flaticon.com/24/5968/5968350.png)](https://tutedude.com/category/python)
+
+Level up your Python skills with the [Tutedude Python Course](https://tutedude.com/category/python)!  
+Use the promo code below and get **₹200 off** instantly.
+
+🎁 **Promo Code:** 
+```markdown 
+pqrMIxON
+``` 
+💰 **Reward:** ₹200 off  
+🔗 **Course Link:** [https://tutedude.com/category/python](https://tutedude.com/category/python)
+
+[![Tutedude](https://storage.googleapis.com/test694/Images/logo-hm.webp)](https://tutedude.com/category/python)
+
+Happy Learning! 🐍
